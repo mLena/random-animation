@@ -1,5 +1,5 @@
 
-setInterval (function(){ myDiv()}, 500);
+setInterval (function(){ myDiv();}, 500);
 function myDiv(){
   var min = 1;
   var max = 140;
