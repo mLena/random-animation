@@ -1,3 +1,5 @@
+(function(){
+'use strict';
 var MINIMUM_WIDTH_HEIGHT = 1;
 var MAXIMUM_WIDTH_HEIGHT = 140;
 var MINIMUM_COORDINATES = 0;
@@ -43,3 +45,4 @@ function randomizeBackgroundColor(){
 function buildPixelValue(numericValue){
   return numericValue + 'px';
 }
+}());
