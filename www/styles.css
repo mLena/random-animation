@@ -8,3 +8,13 @@
   top: 100px;
   transition: all .5s ease-in;
 }
+
+#animation-container{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 800px;
+  height: 600px;
+}
