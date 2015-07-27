@@ -17,4 +17,8 @@
   margin-top: 20px;
   width: 800px;
   height: 600px;
+  border-style: outset;
+  border-radius: 10px;
+  border-color: rgb(255,102,102);
+  border-width: 10px;
 }
